@@ -33,7 +33,7 @@ let str = `
 ║➤ *Owner:* Aleizn
 ║➤ *Numero:* wa.me/51914865141
 ║➤ *Bot ofc:* wa.me/51914865141
-║➤ *PayPal:* https://www.paypal.me/TheShadowBrokers133
+║➤ *Instagram:* https://www.instagram.com/ale.izn_10/
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios:* ${rtotalreg}
@@ -639,7 +639,7 @@ mediaUrl: null,
 title: '👑 𝐓𝐇𝐄 𝐌𝐘𝐒𝐓𝐈𝐂 - 𝐁𝐎𝐓 👑',
 body: null,
 thumbnail: img,
-sourceUrl: `https://www.paypal.me/TheShadowBrokers133`
+sourceUrl: `https://www.instagram.com/ale.izn_10/`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
